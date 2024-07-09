@@ -1,4 +1,5 @@
 print(f"я конфликт-код")
+print(f"я конфликт-код")
 
 for i in range(8):
     print("Слово")
